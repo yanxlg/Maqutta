@@ -1,0 +1,9 @@
+A/Id=A
+A/Name=yanxianliang
+A/UserName=798410225
+A/UserRights=[{"Method"\:15,"Uri"\:"/users/A"},{"Method"\:15,"Uri"\:"/workspace/798410225"},{"Method"\:15,"Uri"\:"/workspace/798410225/*"},{"Method"\:15,"Uri"\:"/file/798410225"},{"Method"\:15,"Uri"\:"/file/798410225/*"}]
+A/UserRightsVersion=3
+A/Workspaces=[{"LastModified"\:1494300168595,"Id"\:"798410225"}]
+A/maqettaInit=true
+A/maqettaWorkbenchPref={"activeEditor"\:"./project1/file1.html","editors"\:["./project1/file1.html"],"nhfo"\:{"project1"\:{"device"\:"iphone","layout"\:"flow","themeSet"\:{"_COMMENT_"\:"Defines site-specific default theme sets","desktopTheme"\:"claro","mobileTheme"\:[{"device"\:"Android","theme"\:"android"},{"device"\:"BlackBerry","theme"\:"blackberry"},{"device"\:"iPad","theme"\:"ipad"},{"device"\:"iPhone","theme"\:"iphone"},{"device"\:"other","theme"\:"iphone"}],"name"\:"site_dojo_default"}}}}
+eclipse.preferences.version=1
